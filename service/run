@@ -1,0 +1,2 @@
+#!/bin/sh
+python /data/dbus-tasmota-sml-smartmeter/dbus-tasmota-sml-smartmeter.py
